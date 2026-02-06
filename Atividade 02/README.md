@@ -1,5 +1,7 @@
 # Geração Tech 3.0 - Atividade 02
 
+![Atividade 02](../img/atv2.jpg)
+
 ## Descrição
 
 Este projeto é a segunda atividade do bootcamp **Geração Tech 3.0**, focado no aprendizado de **HTML** (HyperText Markup Language) com integração de **CSS inline** para estilização. 

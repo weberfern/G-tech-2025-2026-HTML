@@ -1,5 +1,7 @@
 # Geração Tech 3.0 - Atividade 01
 
+![Atividade 01](../img/atv1.jpg)
+
 ## Descrição
 
 Este projeto é a primeira atividade do bootcamp **Geração Tech 3.0**, focado no aprendizado de **HTML** (HyperText Markup Language). 

@@ -1,5 +1,7 @@
 # Geração Tech 3.0 - Atividade Prática
 
+![Atividade Prática](../img/atv-pratica.jpg)
+
 ## Descrição
 
 Este projeto é uma atividade prática do bootcamp **Geração Tech 3.0**, focado no aprendizado de **HTML** e **CSS externo** com integração de **Google Fonts**. 
