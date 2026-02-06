@@ -14,6 +14,9 @@ HTML/
 ├── Atividade 02/
 │   ├── index.html
 │   └── README.md
+├── Atividade Pratica/
+│   ├── index.html
+│   └── styles.css
 └── README.md
 ```
 
@@ -48,6 +51,18 @@ A segunda atividade expande o aprendizado incluindo **CSS inline** para estiliza
 
 [Ver detalhes da Atividade 02](Atividade%2002/README.md)
 
+### Atividade Pratica - Perfil com CSS externo e Google Fonts
+
+A atividade prática traz uma página de perfil simples com **CSS externo** e uso de **Google Fonts**.
+
+**Características principais:**
+- **Estrutura simples**: Página com título, parágrafo e lista de habilidades
+- **CSS externo**: Estilos organizados em `styles.css`
+- **Google Fonts**: Fonte Playwrite NZ Basic aplicada ao conteúdo
+- **Classes utilitárias**: Estilos diferenciados para cada item da lista
+
+**Tecnologias**: HTML5, CSS3
+
 ## Como Usar
 
 1. Clone o repositório:
@@ -62,7 +77,7 @@ cd "HTML"
 
 3. Acesse a atividade desejada:
 ```bash
-cd "Atividade 01"  # ou "Atividade 02"
+cd "Atividade 01"  # ou "Atividade 02" ou "Atividade Pratica"
 ```
 
 4. Abra o arquivo `index.html` em seu navegador de preferência.
